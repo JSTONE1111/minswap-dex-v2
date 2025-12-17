@@ -52,7 +52,7 @@
     "@types/json-bigint": "^1.0.1",
     "@typescript-eslint/eslint-plugin": "^5.20.0",
     "@typescript-eslint/parser": "^5.20.0",
-    "esbuild": "^0.14.38",
+    "esbuild": "^0.27.2",
     "eslint": "^8.13.0",
     "eslint-plugin-simple-import-sort": "^7.0.0",
     "eslint-plugin-unicorn": "^48.0.1",
